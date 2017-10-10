@@ -2,17 +2,17 @@
 
 ## What is LitecoinNode?
 
-This project is an attempt to make it simpler for anyone who wishes to install the software to ‘become’ a supernode. In other words, the LitecoinNode script allows everyone/anyone to simply answer a bunch of questions; leading to your computer running a full Litecoin Supernode. Here are some features that LitecoinNode supports:-
+This project is an attempt to make it simpler for anyone who wishes to install the software to ‘become’ a supernode. In other words, the LitecoinNode script allows everyone/anyone to simply answer a bunch of questions; leading to your computer running a full Litecoin Supernode. Here are some features that LitecoinNode supports:
 
 - HTTP status page [optional]
 - Quick initial block syncing through use of ‘bootstrap.dat’ [optional]
-- Automatic maximum connection calculation to remove exhaustion of you computer
+- Automatic maximum connection calculation to remove exhaustion of your computer
 - DDoS protection
 - Automatic client updates [optional]
 
 ## Why run a Supernode?
 
-A supernode is just a computer which runs the Litecoin Core client 24/7. It allows for long term storage of transactions (through the blockchain). This is done by: syncing the relevant block (group of transactions) with other Litecoin Clients which may not used all day. If you are familiar with Bitcoin, then a supernode is the equivalent of a Bitcoin full node. This list include many of the uses of a supernode:- 
+A supernode is just a computer which runs the Litecoin Core client 24/7. It allows for long term storage of transactions (through the blockchain). This is done by: syncing the relevant block (group of transactions) with other Litecoin Clients which may not used all day. If you are familiar with Bitcoin, then a supernode is the equivalent of a Bitcoin full node. This list include many of the uses of a supernode: 
 
 - the network rely’s on Supernodes by helping it accept transactions and blocks from other nodes
 - relaying (sending) this information to other nodes
